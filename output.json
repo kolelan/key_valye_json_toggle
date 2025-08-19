@@ -1,0 +1,12 @@
+[
+{"name": "AbstractReport", "desc": "Абстрактный отчет"},
+{"name": "BinUploaderHandler", "desc": "Обработчик загрузки бинарных файлов"},
+{"name": "BorderMapGeom", "desc": "Геометрия границы карты"},
+{"name": "BorderingBoxAction", "desc": "Действие создания рамки"},
+{"name": "BorderingBoxByCoordAction", "desc": "Действие создания рамки по координатам"},
+{"name": "CardHistoryGeometryDto", "desc": "Объект передачи данных истории геометрии карты"},
+{"name": "Cell", "desc": "Ячейка"},
+{"name": "CheckAction", "desc": "Действие проверки"},
+{"name": "CloneAction", "desc": "Действие клонирования"},
+{"name": "CmemoReport", "desc": "Отчет CMEMO"}
+]
